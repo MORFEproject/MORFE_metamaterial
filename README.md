@@ -3,6 +3,6 @@ For comparison purposes, two additional methods are included: the Method of Mult
 
 Before running the main script, please run install.m to add all necessary files to the MATLAB path.
 
-This code also depends on two external packages: Nlvib v1.3 and the Tensor Toolbox.
+This package also depends on two external packages: Nlvib v1.3 and the Tensor Toolbox.
 •	Nlvib v1.3 is used for numerical continuation in the comparison examples.
 •	The Tensor Toolbox is used for tensor calculations.
